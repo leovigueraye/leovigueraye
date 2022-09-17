@@ -1,6 +1,9 @@
+<h1 align="center">Hi 👋, I'm Leonard Eguriase</h1>
+<h3 align="center">A passionate developer using python to make web applications</h3>
+
 - 🔭 I’m currently working on **python projects**
 
-- 🌱 I’m currently learning **python programming**
+- 🌱 I’m currently learning **python framewaorks**
 
 - 👯 I’m looking to collaborate on **python projects**
 
