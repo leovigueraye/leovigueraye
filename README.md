@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Leonard Eguriase</h1>
-<h3 align="center">A passionate developer using python to make web applications</h3>
+<h1 align="center">Hi 👋, I'm Ovigue Leonard Eguriase</h1>
+<h3 align="center">A software developer with experience developing web applications with Python/Django and PHP/Laravel. If you are a business seeking a web presence, a cross platform web appplication or an employer looking to hire, you can get in touch with me.</h3>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **PHP/Laravel projects**
 
-- 🌱 I’m currently learning **python framewaorks**
+- 🌱 I’m currently learning **Web framewaorks**
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **Software projects**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **leguriase98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lovigueraye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lovigueraye" height="30" width="40" /></a>
+<a href="https://twitter.com/lovigueraye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leovigueraye" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
