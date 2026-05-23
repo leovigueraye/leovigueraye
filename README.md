@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **leguriase98@gmail.com**
 
-- 📄 Know about my experiences [https://leovigueraye.netlify.app/Dev%20Resume.pdf](https://leovigueraye.netlify.app/Dev%20Resume.pdf)
+- 📄 Know about my experiences [https://leovigueraye.netlify.app/Dev%20Resume.pdf](https://leovigueraye.netlify.app/OVIGUE-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
